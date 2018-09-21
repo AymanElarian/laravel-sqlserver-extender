@@ -6,7 +6,7 @@
     "authors": [
         {
             "name": "AymanElarian",
-            "email": "aymanstar@gmail. om"
+            "email": "aymanstar@gmail.com"
         }
     ],
     "support": {
@@ -29,5 +29,5 @@
         }
     },
 
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
