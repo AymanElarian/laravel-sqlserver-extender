@@ -1,0 +1,33 @@
+{
+    "name": "aymanelarian/laravel-sqlserver-extender",
+    "description": "Extend SQL Server Grammar for Laravel & Lumen to fix migration",
+    "keywords": ["sqlsrv", "laravel", "lumen", "migration", "sqlserver", "sql"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "AymanElarian",
+            "email": "aymanstar@gmail. om"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/AymanElarian/laravel-sqlserver-extender/issues",
+        "source": "https://github.com/AymanElarian/laravel-sqlserver-extender"
+    },
+    "require": {
+        "php": ">=5.5.9",
+        "illuminate/database": ">=4.1",
+        "illuminate/support": ">=4.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.0",
+        "mockery/mockery": "~0.9",
+        "laravel/framework": ">=4.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "AymanElarian\\Extensions\\SqlServer\\": "src/"
+        }
+    },
+
+    "minimum-stability": "stable"
+}
