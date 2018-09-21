@@ -28,6 +28,13 @@
             "AymanElarian\\Extensions\\SqlServer\\": "src/"
         }
     },
+   "extra": {
+        "laravel": {
+            "providers": [
+                "AymanElarian\\Extensions\\SqlServer\\SqlServerExtendedServiceProvider"
+            ]
+        }
+    }
 
     "minimum-stability": "stable"
 }
