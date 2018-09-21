@@ -1,8 +1,8 @@
 # Laravel SQL Server Extender
 
-[![Latest Version on Packagist][ico-version]][link-packagist]
+[![Latest Version on Packagist][ico-version]]
 [![Software License][ico-license]](LICENSE.txt)
-[![Total Downloads][ico-downloads]][link-downloads]
+[![Total Downloads][ico-downloads]]
 
 This package extend the SQL Server driver from Laravel to fix the migration error due to using custom schema  name
 
