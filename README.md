@@ -70,7 +70,7 @@ The MIT License (MIT). Please see [License File](LICENSE.txt) for more informati
 
 ## Credits
 
-Originally inspired from [grimzy's Laravel mysql-spatial package](https://github.com/grimzy/laravel-mysql-spatial).
+Originally inspired and code refactored from [grimzy's Laravel mysql-spatial package](https://github.com/grimzy/laravel-mysql-spatial).
 
 
 
