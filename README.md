@@ -51,12 +51,14 @@ Contributions are very welcome. Please see [CONTRIBUTING](CONTRIBUTING.md) for d
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.txt) for more information.
-[link-packagist]: https://packagist.org/packages/aymanelarian/laravel-sqlserver-extender
-[link-downloads]: https://packagist.org/packages/aymanelarian/laravel-sqlserver-extender
+
 
 [ico-version]: https://img.shields.io/packagist/v/aymanelarian/laravel-sqlserver-extender.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
 [ico-downloads]: https://img.shields.io/packagist/dt/aymanelarian/laravel-sqlserver-extender.svg?style=flat-square
+
+[link-packagist]: https://packagist.org/packages/aymanelarian/laravel-sqlserver-extender
+[link-downloads]: https://packagist.org/packages/aymanelarian/laravel-sqlserver-extender
 
 
 
