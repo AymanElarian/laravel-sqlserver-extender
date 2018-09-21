@@ -19,18 +19,18 @@ Once composer has been updated and the package has been installed, the service p
 
 For Laravel 5, open `config/app.php` and add following line to the providers array:
 ``` php
-AymanElarian\Extensions\SqlServer\SqlServerExtendedServiceProvider::class,
+AymanElarian\Extensions\SqlServer\SpatialServiceProvider::class,
 ```
 
 For Lumen 5, open `bootstrap/app.php` and add following line under the "Register Service Providers" section:
 ``` php
-$app->register(AymanElarian\Extensions\SqlServer\SqlServerExtendedServiceProvider::class);
+$app->register(AymanElarian\Extensions\SqlServer\SpatialServiceProvider::class);
 ```
 
 For Laravel 4, open `app/config/app.php` and add following line to the providers array:
 
 ``` php
-'AymanElarian\Extensions\SqlServer\SqlServerExtendedServiceProvider',
+'AymanElarian\Extensions\SqlServer\SpatialServiceProvider',
 ```
 
 
