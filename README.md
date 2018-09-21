@@ -34,6 +34,20 @@ For Laravel 4, open `app/config/app.php` and add following line to the providers
 ```
 
 
+
+## TO DO : Development plan
+
+- [1] overwrite sql server grammer (compileTableExists method)  to search by schema name
+- [1] refactor grimzy's Laravel mysql-spatial package to work with sql server
+- [1] support points in sql server 
+- [1] support polygon in sql server 
+- [ ] support all other types in sql server 
+- [ ] fix all test cases to run with sql server
+
+
+- `Spatial support for all sql server spatial functions`
+- `test cases for sql server
+
 ## Usage
 
 Once you included the service provider the Laravel/Lumen will start using the custom grammar.
@@ -42,11 +56,6 @@ Once you included the service provider the Laravel/Lumen will start using the cu
 
 Contributions are very welcome. Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
-
-## Credits
-
-- [AymanElarian][link-author]
-- [All Contributors][link-contributors]
 
 ## License
 
@@ -59,6 +68,11 @@ The MIT License (MIT). Please see [License File](LICENSE.txt) for more informati
 
 [link-packagist]: https://packagist.org/packages/aymanelarian/laravel-sqlserver-extender
 [link-downloads]: https://packagist.org/packages/aymanelarian/laravel-sqlserver-extender
+
+
+## Credits
+
+Originally inspired from [grimzy's Laravel mysql-spatial package](https://github.com/grimzy/laravel-mysql-spatial).
 
 
 
