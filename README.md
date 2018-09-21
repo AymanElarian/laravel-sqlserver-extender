@@ -4,7 +4,7 @@
 [![Software License][ico-license]](LICENSE.txt)
 [![Total Downloads][ico-downloads]][link-downloads]
 
-This package extend the SQL Server driver from Laravel to fix the migration error due to using custom schema  name
+This package extend the SQL Server driver from Laravel to fix the migration error due to using custom schema  name and support sql server spatial
 
 ## Install
 
