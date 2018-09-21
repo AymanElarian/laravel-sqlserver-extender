@@ -32,12 +32,7 @@
    "extra": {
         "laravel": {
             "providers": [
-<<<<<<< HEAD
               "AymanElarian\\Extensions\\SqlServer\\SpatialServiceProvider"
-
-=======
-                "AymanElarian\\Extensions\\SqlServer\\SqlServerExtendedServiceProvider"
->>>>>>> 2d220b7b4e43cbbbf6265d01cb95666c0dff4167
             ]
         }
     },
