@@ -34,7 +34,7 @@
                 "AymanElarian\\Extensions\\SqlServer\\SqlServerExtendedServiceProvider"
             ]
         }
-    }
+    },
 
     "minimum-stability": "stable"
 }
