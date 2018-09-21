@@ -37,16 +37,14 @@ For Laravel 4, open `app/config/app.php` and add following line to the providers
 
 ## TO DO : Development plan
 
-- [1] overwrite sql server grammer (compileTableExists method)  to search by schema name
-- [1] refactor grimzy's Laravel mysql-spatial package to work with sql server
-- [1] support points in sql server 
-- [1] support polygon in sql server 
+- [x] overwrite sql server grammer (compileTableExists method)  to search by schema name
+- [x] refactor grimzy's Laravel mysql-spatial package to work with sql server
+- [x] support points in sql server 
+- [x] support polygon in sql server 
 - [ ] support all other types in sql server 
 - [ ] fix all test cases to run with sql server
 
 
-- `Spatial support for all sql server spatial functions`
-- `test cases for sql server
 
 ## Usage
 
